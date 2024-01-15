@@ -13,3 +13,6 @@ Required modules:
    pip install tkcalendar
    pip install PyAutoGUI
    pip install requests
+
+
+ use pip3 if pip command don't work
